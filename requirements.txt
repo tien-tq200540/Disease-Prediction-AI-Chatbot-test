@@ -1,0 +1,9 @@
+pyyaml
+seaborn
+joblib
+scikit-learn
+numpy
+pandas
+nltk
+matplotlib
+difflib
